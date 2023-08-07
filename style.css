@@ -103,7 +103,7 @@ a{
 }
 .img-bk{
     background-color: #fff;
-    height: 20%;
+    height: auto;
     width: 100%;
     display: flex;
     box-sizing: 0;
